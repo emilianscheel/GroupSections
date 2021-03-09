@@ -1,6 +1,8 @@
 # GroupSections
 An easy way to group your Lists in different Sections in UITableView by Date. Just download the source code from files.
 
+<img src="https://github.com/emilianscheel/GroupSections/blob/main/Example.png" width="200">
+
 ## How to use
 
 1. Create a Item-Class which has `GroupSections.ObjectRow` as SuperClass.
