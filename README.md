@@ -29,7 +29,7 @@ persons.append(id: 2: name: "Dave")
 
 
 
-3. Change in `GroupSections`-Class the parameter from `group` to your custom Person-Class
+3. Change in `GroupSections`-Class the parameter from `group` to your custom Person-Class.
 ```Swift
 static func group(_ persons: [Person], by component: Calendar.Component) -> [Object] { ... }
 ```
